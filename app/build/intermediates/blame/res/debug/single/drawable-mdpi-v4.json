@@ -8,12 +8,8 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\settings_selected.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\settings_selected.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -24,16 +20,92 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_perm_media_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_create_black_48dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_create_black_48dp.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_class_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_class_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_border_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_border_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_schedule_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_schedule_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_people_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_people_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_local_hospital_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_local_hospital_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_home_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_create_black_48dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_create_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_perm_media_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_perm_media_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_first_page_black_36dp.png",
@@ -44,20 +116,20 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_schedule_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_schedule_black_36dp.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_edit_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_edit_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newspaper.png",
@@ -68,20 +140,16 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_black_36dp.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_black_36dp.png"
-    },
-    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_wildcat_head.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_wildcat_head.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
@@ -92,16 +160,16 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_last_page_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_last_page_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
@@ -112,16 +180,16 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
@@ -132,6 +200,82 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\clubs_selected.png"
     },
     {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_event_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_event_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_settings_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_info_outline_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_info_outline_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_chevron_right_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_chevron_right_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_off_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_off_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_info_outline_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_info_outline_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hospital_selected.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\hospital_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newspaper.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_group_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_group_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_announcement_black_36dp.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_announcement_black_36dp.png"
     },
@@ -140,20 +284,48 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_group_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_first_page_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_first_page_black_36dp.png"
+    },
+    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_event_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_event_black_36dp.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_people_black_36dp.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_people_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_info_outline_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_info_outline_black_36dp.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_person_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_add_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_person_add_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
@@ -162,6 +334,30 @@
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_wildcat_head.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_wildcat_head.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_paw.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_paw.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_paw.png",
@@ -184,16 +380,20 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_chevron_right_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_person_black_36dp.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_active_black_36dp.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_active_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_schedule_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_schedule_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_chevron_left_black_36dp.png",
@@ -212,16 +412,72 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hospital_selected.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\hospital_selected.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_create_black_48dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_create_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_none_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_none_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_announcement_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_announcement_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_person_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_person_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home_black_36dp.png",
@@ -232,8 +488,12 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_event_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_event_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
@@ -244,32 +504,28 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_class_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newspaper_selected.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\newspaper_selected.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_notifications_active_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_active_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\school_selected.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\school_selected.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_border_black_36dp.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_border_black_36dp.png"
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\clubs_selected.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\clubs_selected.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_favorite_border_black_36dp.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_favorite_border_black_36dp.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_last_page_black_36dp.png",
@@ -278,10 +534,6 @@
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
-        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
@@ -304,7 +556,79 @@
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_none_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
         "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\hospital_selected.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\hospital_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_chevron_left_black_36dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\ic_chevron_left_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\school.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\school.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newspaper_selected.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\newspaper_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\school_selected.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\school_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\school_selected.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\school_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\robotics\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\newspaper_selected.png",
+        "source": "C:\\Users\\Austin\\Documents\\GitHub\\5243MobileApp\\app\\src\\main\\res\\drawable-mdpi\\newspaper_selected.png"
     }
 ]

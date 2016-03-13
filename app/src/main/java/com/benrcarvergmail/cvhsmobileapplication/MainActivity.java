@@ -40,16 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Hard-coded icons for the tabs
     private int[] tabIcons = {
-            R.drawable.tab1, // Newspaper. I am setting the drawable to an XML document that
-            // determines what icon to display based on whether or not the tab is active or not.
-            R.drawable.tab2, // Academics. I am setting the drawable to an XML document that
-            // determines what icon to display based on whether or not the tab is active or not.
-            R.drawable.tab3, // Box with cross. I am setting the drawable to an XML document that
-            // determines what icon to display based on whether or not the tab is active or not.
-            R.drawable.tab4, // Two silhouettes. I am setting the drawable to an XML document that
-            // determines what icon to display based on whether or not the tab is active or not.
-            R.drawable.tab5 // Gear. I am setting the drawable to an XML document that
-            // determines what icon to display based on whether or not the tab is active or not.
+            R.drawable.field,R.drawable.teams
     };
 
     @Override
@@ -86,9 +77,6 @@ public class MainActivity extends AppCompatActivity {
     private void setupTabIcons() {
         tabLayout.getTabAt(0).setIcon(tabIcons[0]);
         tabLayout.getTabAt(1).setIcon(tabIcons[1]);
-        tabLayout.getTabAt(2).setIcon(tabIcons[2]);
-        tabLayout.getTabAt(3).setIcon(tabIcons[3]);
-        tabLayout.getTabAt(4).setIcon(tabIcons[4]);
     }
 
     @Override
@@ -119,16 +107,9 @@ public class MainActivity extends AppCompatActivity {
     private void setupViewPagerIconsOnly(ViewPager viewPager) {
         // Does not pass any text to the addFrag method, so the icons do not have any text
         ViewPagerAdapter vpa = (ViewPagerAdapter) viewPager.getAdapter();
+        vpa.addFrag(new TeamNumbersFragment(), "");
         vpa.addFrag(new AnnouncementsFragment(), "");
-        vpa.addFrag(new AnnouncementsFragment(), "");
-        vpa.addFrag(new AnnouncementsFragment(), "");
-        vpa.addFrag(new AnnouncementsFragment(), "");
-        vpa.addFrag(new AnnouncementsFragment(), "");
-        // vpa.addFrag(new OneFragment(), ""); // Announcements
-        // vpa.addFrag(new TwoFragment(), ""); // Academics
-        // vpa.addFrag(new ThreeFragment(), ""); // Wellness
-        // vpa.addFrag(new FourFragment(), ""); // Extracurricular
-        // vpa.addFrag(new FiveFragment(), ""); // Settings
+
 
     }
 
